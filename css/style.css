@@ -265,7 +265,7 @@ a.btn.btn-outline-info {
   max-width: 66.666667%;
   width: 60%;
   height: 700px;
-  background-image: url(/images/hero-bg.png);
+  background-image: url(../images/hero-bg.png);
   border-left: 200px solid #fff;
   border-top: 700px solid transparent;
 }
